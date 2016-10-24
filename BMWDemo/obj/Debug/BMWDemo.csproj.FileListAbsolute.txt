@@ -1,0 +1,5 @@
+F:\Protik folder\project vs12\BMWDemo\BMWDemo\bin\BMWDemo.dll
+F:\Protik folder\project vs12\BMWDemo\BMWDemo\bin\BMWDemo.pdb
+F:\Protik folder\project vs12\BMWDemo\BMWDemo\obj\Debug\BMWDemo.csprojResolveAssemblyReference.cache
+F:\Protik folder\project vs12\BMWDemo\BMWDemo\obj\Debug\BMWDemo.dll
+F:\Protik folder\project vs12\BMWDemo\BMWDemo\obj\Debug\BMWDemo.pdb
